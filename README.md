@@ -4,7 +4,7 @@ the model is trained in restaraunt review but that dosent limit it to just resta
 otherwise use any other datset to train it further.
 current accuracy - 77%
 
-##libraries uses
+## libraries uses
 <ul>
   <li>numpy</li>
   <li>NLTK</li>
